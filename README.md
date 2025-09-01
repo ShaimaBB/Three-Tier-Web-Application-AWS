@@ -1,7 +1,7 @@
 #  Three-Tier Web Application with AWS
 
 This project taught me how to set up a three-tier web application using AWS services by integrating the **presentation tier**, **logic tier**, and **data tier** to create a fully functional web application.  
-My documentation of this entire project is [here](https://github.com/ShaimaBB/Three-Tier-Web-Application-AWS/blob/9c2819b3335e2c76f8283ac43cf473f0b6a2f694/AWS%20Three%20(1).pdf).
+My documentation of this entire project is [here](https://github.com/ShaimaBB/Three-Tier-Web-Application-AWS/blob/a96ab7f6a8b1eaf7450fe33e31a480cfc458c84b/AWS%20Three%20Tier.pdf).
 
 ---
 
@@ -27,7 +27,7 @@ My documentation of this entire project is [here](https://github.com/ShaimaBB/Th
 
 ##  Architecture
 
-![Three-Tier Architecture](https://github.com/ShaimaBB/Three-Tier-Web-Application-with-AWS/blob/62254c988edab23ee623e4f345add6225e42871c/images/Architecture%20Diagram.png)
+![Three-Tier Architecture](https://github.com/ShaimaBB/Three-Tier-Web-Application-AWS/blob/11be155106c125e0c7e524c776048028ac303724/images/Architecture%20diagram%20(2).png)
 
 ---
 
